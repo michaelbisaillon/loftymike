@@ -11,6 +11,6 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
-!-- This section you create this variables that are used above -->
+<!-- This section you create this variables that are used above -->
 [twitter]: https://twitter.com/MichaelBisaill2
 [linkedin]: https://www.linkedin.com/in/michael-bisaillon-745b7583/
