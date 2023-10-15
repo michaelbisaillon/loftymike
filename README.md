@@ -3,7 +3,7 @@
 - 🌱 I’m currently - Learning R Shiny.
 - 👯 I’m looking to collaborate - With others developers in R community.
 - 💬 Ask me about - R!!!
-- 🥅 2022 Goal - Learn Python
+- 🥅 2024 Goal - Learn Python
 - ⚡ Fun fact: F1 Fan.
 
 ## Connect with me:
